@@ -1,0 +1,14 @@
+/Users/addy/derek/derek/target/debug/deps/heck-5e9797703fea9078.rmeta: /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/lib.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/camel.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/kebab.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/mixed.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/shouty_kebab.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/shouty_snake.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/snake.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/title.rs
+
+/Users/addy/derek/derek/target/debug/deps/libheck-5e9797703fea9078.rlib: /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/lib.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/camel.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/kebab.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/mixed.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/shouty_kebab.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/shouty_snake.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/snake.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/title.rs
+
+/Users/addy/derek/derek/target/debug/deps/heck-5e9797703fea9078.d: /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/lib.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/camel.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/kebab.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/mixed.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/shouty_kebab.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/shouty_snake.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/snake.rs /Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/title.rs
+
+/Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/lib.rs:
+/Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/camel.rs:
+/Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/kebab.rs:
+/Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/mixed.rs:
+/Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/shouty_kebab.rs:
+/Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/shouty_snake.rs:
+/Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/snake.rs:
+/Users/addy/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.2/src/title.rs:
